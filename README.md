@@ -1,2 +1,13 @@
-# web-security-scanner
-Python-based tool to scan websites for vulnerabilities, HTTPS issues, and missing security headers. Includes OWASP top 10 checks and generates a simple security report.
+# Web Security Scanner
+Scan websites for common vulnerabilities and security headers. Includes OWASP top 10 checks.
+
+## Features
+- HTTPS verification
+- Security headers check
+- Vulnerability reporting
+
+## Tech Stack
+- Python 3
+- Requests & BeautifulSoup
+
+## Usage
